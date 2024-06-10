@@ -15,7 +15,7 @@ The Stock Recommendation System is designed to analyze bulk deal data from the N
    - Ensure that only unique entries are appended to the historical data.
 
 3. **Recommendation Generation**:
-   - Analyze recent trading activity over a specified period (e.g., last 30 days).
+   - Analyze recent trading activity over a specified period (e.g., last 15 days).
    - Identify stocks with significant buy or sell signals based on trading patterns.
    - Provide detailed recommendations with information on the last trade, client, and trade values.
 
